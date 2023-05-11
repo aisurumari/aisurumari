@@ -5,7 +5,11 @@
 <div align="center">
   <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWI3NzljNDYxM2ZhZDJjNjc2N2VkNmY5Y2IxNTZiNTIyYmM5NjdlNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l1ZO6v5fZPwAPTsWlP/giphy.gif" width="20%" height="20%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
   </div>
-
+<div align="center">
+                                 <a href="https://aisurumari.github.io/">
+  <img src="https://img.shields.io/badge/MW-Portfolio-blueviolet" alt="Portfolio Badge"/>
+                                                                                       </a>
+                                 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/maria-magdalena-wichrowska/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

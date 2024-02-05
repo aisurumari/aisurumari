@@ -27,11 +27,11 @@
 
 💻 I love programming in frontend technologies and I want to learn and share my knowledge with others for my whole life
 
-🙋‍♀️ I work in Sii Poland as a Frontend Developer
+🙋‍♀️ I work in Vistex Poland as a Frontend Developer
 
 👩‍🎓 I'm a bachelor of Applied Computer Science
 
-🔭 I’m currently working on e-commerce React app
+🔭 I’m currently focusing on my work and Svelte frontend programming language
 
 ⚡ In my free time, I play badminton, dance, sew and bake birthday cakes #worklifebalance
 
